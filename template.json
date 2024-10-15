@@ -1,6 +1,6 @@
 {
   "AWSTemplateFormatVersion": "2010-09-09",
-  "Description": "This template creates an SQS queue with an SQS queue policy attached and an IAM role that can access the queue. You will be billed for the AWS resources used if you create a stack from this template.",  
+  "Description": "This template create an SQS queue with an SQS queue policy attached and an IAM role that can access the queue. You will be billed for the AWS resources used if you create a stack from this template.",  
   "Parameters": {
       "QueueName": {
           "Type": "String",
